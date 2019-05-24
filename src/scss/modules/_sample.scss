@@ -1,0 +1,7 @@
+h1 {
+  color: $color-black;
+
+  @include mq('sp') {
+    color: $color-white;
+  }
+}

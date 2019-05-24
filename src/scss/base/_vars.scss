@@ -1,0 +1,23 @@
+//color
+$black: #000;
+$white: #fff;
+$gray: #ccc;
+
+//break point
+$breakPoints: (
+  tb: "max-width: 1024px",
+  sp: "max-width: 768px"
+);
+
+//font
+$fontBase: "Kosugi Maru";
+$fontEn: "Share", cursive;
+
+//transition
+$transitionBase: all 0.3s;
+
+//opacity
+$opacityBase: 0.5;
+
+// style
+$style-border: 1px solid $gray;
